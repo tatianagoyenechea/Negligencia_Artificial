@@ -1,0 +1,2 @@
+# Negligencia_Artificial
+c++
